@@ -1,2 +1,2 @@
 # cattracks
-CatTracks App for UC Merced
+CatTracks App for UC Merced Students.
